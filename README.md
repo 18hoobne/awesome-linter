@@ -1,4 +1,6 @@
 # awesome-linter
+
+## Overview
 A flexible implementation of an linter that can be customized for various formats and languages.
 
 ## Features
